@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyBase</string>
+    <string name="youtube">Youtube</string>
+    <string name="history">History</string>
+    <string name="thumbnails">thumbnails</string>
+    <string name="channel_name">channel name</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_proin_placerat_mi_eget_magna_volutpat_convallis_vivamus_justo_leo_accumsan_ac_vulputate_vitae_gravida_quis_mauris">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat mi eget magna volutpat convallis. Vivamus justo leo, accumsan ac vulputate vitae, gravida quis mauris.</string>
+    <string name="publishedat">publishedAt</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="history_page">History Page</string>
+    <string name="no_history_available">No History Available</string>
+</resources>

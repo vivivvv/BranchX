@@ -35,7 +35,7 @@ class SharedPreferenceHelper @Inject constructor(application: Application) {
         return Gson().let {
             val json = sharedPreference.getString(key, "")
             val type: Type = object : TypeToken<ArrayList<Item>>() {}.type
-            it.fromJson(json, type)
+            it.fromJson(json, type) ?: ArrayList()
         }
     }
 
